@@ -4,6 +4,7 @@
 - **Email:** [hamza.bousalih@yahoo.com](mailto:hamza.bousalih@yahoo.com)
 - **LinkedIn:** [@bsh-devsolutions](https://www.linkedin.com/company/bsh-devsolutions)
 - **NPM:** [@bshsolutions](https://www.npmjs.com/org/bshsolutions)
+- **Issues Site**: [plane.so](https://sites.plane.so/issues/a2d64fa672ca4f9dba9b91bd4a3204bb/?board=kanban)
 
 ### Author: Bousalih Hamza
 - [on GitHub](https://github.com/hamza-bousalih)
