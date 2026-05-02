@@ -1,7 +1,7 @@
 # BSH Solutions
 
 - **Web Site:** [https://docs.bousalih.com](https://docs.bousalih.com)
-- **Email:** [hamza.bousalih@yahoo.com](mailto:hamza.bousalih@yahoo.com)
+- **Email:** [dev-solutions@bousalih.com](mailto:dev-solutions@bousalih.com)
 - **LinkedIn:** [@bsh-devsolutions](https://www.linkedin.com/company/bsh-devsolutions)
 - **NPM:** [@bshsolutions](https://www.npmjs.com/org/bshsolutions)
 - **Issues Site**: [plane.so](https://sites.plane.so/issues/a2d64fa672ca4f9dba9b91bd4a3204bb/?board=kanban)
